@@ -1,0 +1,7 @@
+pandas
+fastapi
+numpy
+sqlalchemy
+pydentic
+mysql-connector
+python-multipart
